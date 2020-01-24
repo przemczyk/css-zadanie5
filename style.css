@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: antiquewhite;
+}
+
+h2+p {
+    color: burlywood;
+}
+
+ul>li {
+    color: cyan;
+}
